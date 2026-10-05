@@ -6,8 +6,8 @@ Aplikasi console-based untuk mengelola data mahasiswa pada Program Studi Sistem 
 
 ## Identitas
 
-- Nama: Muhammad Fajar
-- NIM: [20241320042]
+- Nama: Naufal Fauzan Azmii
+- NIM: [20241320023]
 - Kelas: [A1]
 
 ## Fitur
@@ -26,7 +26,7 @@ Aplikasi console-based untuk mengelola data mahasiswa pada Program Studi Sistem 
 ## Instalasi
 
 ```bash
-git clone https://github.com/Fnjayy/sim-mahasiswa.git
+git clone https://github.com/naufal9393/pemogaman.Py.git
 cd sim-mahasiswa
 python -m venv venv
 
